@@ -7,9 +7,6 @@
 [submodule "src/datadog-firehose-nozzle/src/github.com/cloudfoundry/noaa"]
 	path = src/datadog-firehose-nozzle/src/github.com/cloudfoundry/noaa
 	url = https://github.com/cloudfoundry/noaa.git
-[submodule "src/datadog-firehose-nozzle/src/github.com/cloudfoundry-incubator/datadog-firehose-nozzle"]
-	path = src/datadog-firehose-nozzle/src/github.com/cloudfoundry-incubator/datadog-firehose-nozzle
-	url = https://github.com/cloudfoundry-incubator/datadog-firehose-nozzle.git
 [submodule "src/datadog-firehose-nozzle/src/github.com/cloudfoundry-incubator/uaago"]
 	path = src/datadog-firehose-nozzle/src/github.com/cloudfoundry-incubator/uaago
 	url = https://github.com/cloudfoundry-incubator/uaago.git
@@ -31,3 +28,6 @@
 [submodule "src/datadog-firehose-nozzle/src/gopkg.in/yaml.v2"]
 	path = src/datadog-firehose-nozzle/src/gopkg.in/yaml.v2
 	url = https://gopkg.in/yaml.v2
+[submodule "src/datadog-firehose-nozzle/src/github.com/gmmeyer/datadog-firehose-nozzle"]
+	path = src/datadog-firehose-nozzle/src/github.com/gmmeyer/datadog-firehose-nozzle
+	url = https://github.com/gmmeyer/datadog-firehose-nozzle.git
